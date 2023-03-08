@@ -14,5 +14,5 @@
 </a>
 <br><br>
 <a href="https://github.com/kevinerd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kevinerd&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kevinjf97&layout=compact&theme=radical" />
 </a>
